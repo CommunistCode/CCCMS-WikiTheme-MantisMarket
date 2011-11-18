@@ -129,6 +129,10 @@
 	color: #3B3A3A;
 }
 
+.subCategoryPages, a {
+	font-size: 12px;
+}
+
 .wikiAdminBar {
 	width: 100%;
 	margin: 10px 0px 0px 0px;

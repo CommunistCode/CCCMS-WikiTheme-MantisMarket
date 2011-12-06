@@ -129,6 +129,50 @@
 	color: #3B3A3A;
 }
 
+.wikiContent .uploadButton {
+	float:right;
+	width: 90px;
+	height: 21px;
+	margin: 2px 0px 0px 5px;
+	padding: 0px 0px 3px 1px;
+  border: 1px solid grey;
+  color: #3B3A3A;
+}
+
+.imageThumbContainer {
+	float: left;
+	line-height: 140px;
+	width: 168px;
+	height: 140px;
+	padding: 7px;
+	text-align: center;
+	margin: 0px;
+}
+
+.imageThumbClear {
+	clear: both;
+}
+
+.wikiImage {
+	max-width: 155px;
+	max-height: 140px;
+	vertical-align: middle;
+}
+
+.wikiImageFullContainer {
+	margin: 5px 0px 0px 20px;
+	width: 700px;
+	max-height: 515px;
+	text-align: center;
+}
+
+.wikiImageFull {
+	margin: 12.5px 0px 0px 0px;
+	max-width: 690px;
+	max-height: 490px;
+}
+
+
 .subCategoryPages, a {
 	font-size: 12px;
 }

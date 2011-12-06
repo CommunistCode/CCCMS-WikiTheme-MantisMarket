@@ -172,6 +172,37 @@
 	max-height: 490px;
 }
 
+.imageCaption {
+	background: #DDD;
+	padding: 10px;
+	border: 1px solid grey;
+	text-align: center;
+}
+
+.imageNo {
+	text-align: center;
+	margin: 10px 0px 10px 0px;
+}
+
+
+.fullImageLinkTable {
+	width: 100%;
+}
+
+.prevLink {
+	width: 100px;
+	text-align: left;
+}
+
+.centerLink {
+	text-align: center;
+}
+
+.nextLink {
+	width: 100px;
+ 	text-align: right;
+}
+
 
 .subCategoryPages, a {
 	font-size: 12px;
